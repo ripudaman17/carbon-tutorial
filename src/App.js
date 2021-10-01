@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 <<<<<<< HEAD
+<<<<<<< HEAD
 import './app.scss';
 import { Content } from 'carbon-components-react';
 import TutorialHeader from './components/TutorialHeader';
@@ -11,10 +12,13 @@ import RepoPage from './content/RepoPage';
 import logo from './logo.svg';
 import './App.css';
 >>>>>>> ec2255db179732394ef35afc779efffaaf38a3a8
+=======
+>>>>>>> f647ee13d2d6afca9acd238510e949be6bfe5d86
 
 class App extends Component {
   render() {
     return (
+<<<<<<< HEAD
 <<<<<<< HEAD
       <>
         <TutorialHeader />
@@ -40,6 +44,11 @@ class App extends Component {
             Learn React
           </a>
         </header>
+=======
+      <div>
+        Hello Carbon! Well, not quite yet. This is the starting point for the
+        Carbon tutorial.
+>>>>>>> f647ee13d2d6afca9acd238510e949be6bfe5d86
       </div>
 >>>>>>> ec2255db179732394ef35afc779efffaaf38a3a8
     );
